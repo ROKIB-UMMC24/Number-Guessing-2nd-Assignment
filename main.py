@@ -113,4 +113,4 @@ while True:
     elif play_again != 'y':
         print("Invalid input. Please enter 'y' for yes or 'n' for no.")
 
-print(f"Game finished")
+print(f"Game finished. See you in tomorrow's game")
